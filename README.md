@@ -37,7 +37,6 @@ This repository showcases my journey in learning and building real-world Machine
 
 ### 🎬 1. Movie Recommendation System
 
-🖼️ *(Add screenshot here)*
 
 This project recommends movies based on user preferences using Machine Learning techniques.
 
