@@ -30,25 +30,23 @@ This repository showcases my journey in learning and building real-world Machine
 * Pandas
 * Matplotlib / Seaborn
 * Scikit-learn
-* OpenCV
 
 ---
 
 ## 📂 Projects Included
 
-### 🎯 1. Face Recognition Attendance System
+### 🎬 1. Movie Recommendation System
 
 🖼️ *(Add screenshot here)*
 
-* Detects and recognizes faces using webcam
-* Automatically marks attendance
-* Stores data in CSV / database
+This project recommends movies based on user preferences using Machine Learning techniques.
 
 🔧 **Features:**
 
-* Real-time face detection
-* Attendance logging
-* Easy to use
+* Recommend similar movies
+* Content-based filtering
+* Fast and accurate suggestions
+* Easy to use interface
 
 ---
 
@@ -60,7 +58,7 @@ This repository showcases my journey in learning and building real-world Machine
 
 ## ⚙️ Installation & Setup
 
-```bash
+```bash id="3vh4d7"
 git clone https://github.com/your-username/Machine_Learning_Projects.git
 cd Machine_Learning_Projects
 pip install -r requirements.txt
@@ -71,10 +69,10 @@ python main.py
 
 ## 📊 Future Improvements
 
-* Add GUI interface
-* Deploy projects as web apps
-* Integrate cloud database
-* Improve model accuracy
+* Add GUI / Web interface
+* Deploy as a web app
+* Improve recommendation accuracy
+* Add user-based recommendations
 
 ---
 
