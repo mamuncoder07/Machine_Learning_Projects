@@ -81,7 +81,8 @@ streamlit run app.py
 
 ## 📷 Screenshot
 
-(Add your project screenshot here)
+![Home](screenshot1.png)
+![Output](screenshot2.png)
 
 ---
 
