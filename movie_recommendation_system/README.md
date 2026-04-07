@@ -48,10 +48,14 @@ It recommends movies based on similarity scores and displays movie posters using
 
 ```
 Movie-Recommender-System/
-│── app.py
-│── top10K-TMDB-movies.csv
-│── frontend/
 │── README.md
+│── app.py
+│── frontend.7z
+│── main.jpynb
+│── requirements.txt
+│── screenshot1.png
+│── screenshot2.png
+│── top10K-TMDB-movies.csv
 ```
 
 ---
@@ -62,7 +66,7 @@ Movie-Recommender-System/
 
 ```bash
 git clone https://github.com/your-username/Movie-Recommender-System.git
-cd Movie-Recommender-System
+cd movie_recommendation_system
 ```
 
 2. Install dependencies:
